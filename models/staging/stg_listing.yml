@@ -1,0 +1,15 @@
+version : 2
+
+models:
+  - name: stg_listing
+    columns:
+      - name: listing_id
+        tests:
+          - unique
+          - not_null
+      - name: cost_price
+        tests:
+          - not_null
+      - name: listed_price
+        tests:
+          - not_null
