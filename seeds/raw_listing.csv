@@ -1,0 +1,13 @@
+listing_id,laptop_model,cost_price,listed_price,date_listed,date_sold,platform
+1,ThinkPad T470s,85000,120000,2026-06-01,2026-06-05,WhatsApp
+2,HP EliteBook 1040 G4,95000,135000,2026-06-02,2026-06-10,Telegram
+3,Dell Latitude 5401,78000,110000,2026-06-03,2026-06-08,WhatsApp
+4,Dell Latitude 3390 2-in-1,70000,100000,2026-06-04,,WhatsApp
+5,ThinkPad T470s,82000,118000,2026-06-05,2026-06-12,Telegram
+6,HP EliteBook 1040 G4,98000,140000,2026-06-06,2026-06-09,WhatsApp
+7,Dell Latitude 5401,75000,60000,2026-06-07,2026-06-15,WhatsApp
+8,ThinkPad T470s,88000,125000,2026-06-08,,Telegram
+9,Dell Latitude 3390 2-in-1,72000,105000,2026-06-09,2026-06-14,WhatsApp
+10,HP EliteBook 1040 G4,96000,138000,2026-06-10,2026-06-18,Telegram
+11,ThinkPad T470s,84000,122000,2026-06-11,2026-06-20,WhatsApp
+12,Dell Latitude 5401,77000,112000,2026-06-12,,Telegram
